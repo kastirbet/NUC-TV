@@ -17,3 +17,6 @@ This project describes the intended behavior of a future automation script that 
 - Once restored, it should resume the automated sequence.
 
 This README only documents the desired functionality. Further development is required to implement the automation on the NUC.
+
+
+This APP is AI built. I did not do anything...
